@@ -1,0 +1,11 @@
+{
+    "server": {
+      "baseDir": [
+        "./src",
+        "C:\Users\Vaishnavi Raj\Desktop\Vaishnavi\Smart Contracts\contracts"
+      ],
+      "routes": {
+        "/vendor": "./node_modules"
+      }
+    }
+  }
